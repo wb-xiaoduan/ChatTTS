@@ -1,1 +1,1 @@
-FROM lcs13324/chattts:latest
+FROM changhui/chattts_webui
