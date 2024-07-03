@@ -1,1 +1,1 @@
-from lcs13324/chattts
+FROM lcs13324/chattts:latest
